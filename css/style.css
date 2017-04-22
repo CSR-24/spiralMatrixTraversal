@@ -1,0 +1,23 @@
+#container {
+  width: 800px;
+  height: 860px;
+  border: 1px solid black;
+  margin: auto;
+}
+#spiral {
+  position: relative;
+  width: 800px;
+  height: 800px;
+  background: steelBlue;
+}
+#spiralControl {
+  position: absolute;
+  top: 800px;
+  width: 800px;
+  height: 60px;
+  background: lightgrey;
+}
+#msg {
+  color: white;
+  font-size: 30px;
+}
